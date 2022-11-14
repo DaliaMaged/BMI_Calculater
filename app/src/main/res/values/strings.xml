@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Calculater</string>
+    <string name="weight">Weight</string>
+    <string name="height">height</string>
+    <string name="calculate">Calculate</string>
+    <string name="normal_rang_is_24_60">normal rang is 24 - 60</string>
+</resources>
